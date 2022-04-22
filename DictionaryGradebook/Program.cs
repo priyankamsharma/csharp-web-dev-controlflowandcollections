@@ -44,6 +44,7 @@ namespace DictionaryGradebook
 
             double avg = sum / students.Count;
             Console.WriteLine("Average grade: " + avg);
+
         }
     }
 }
